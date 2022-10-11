@@ -1,4 +1,4 @@
-# Operations-WG
+# Communtiy Ops
 <p>The Operations Working Group is an initiative created by the current Catalyst Circle CA Representative, Nadia Hopkins.</p>, and replaces some of hte other working groups originally discusses within the Discord server and Miro board.
 
 <br>
